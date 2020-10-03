@@ -2,7 +2,16 @@
 Changed block placement
 Added block/item stacking
 Added some tool tips
-#===============future=============#
-fix stacking bug
-add more tool tips
-fix UI use bug
+#===============0.5================#
+fixed stacking bug
+fixed UI use bug
+shaders
+axes (only one rn)
+foliage & trees
+wood
+a new team of tester
+#==============furure==============#
+more axes
+more tool tips
+more crafting recipies
+coal and other ores
