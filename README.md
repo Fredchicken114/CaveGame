@@ -10,8 +10,7 @@ axes (only one rn)
 foliage & trees
 wood
 a new team of tester
-#==============furure==============#
-more axes
-more tool tips
-more crafting recipies
-coal and other ores
+#==============0.6==============#
+fixed block placements
+added lights
+Graphics options
