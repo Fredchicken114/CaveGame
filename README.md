@@ -14,3 +14,8 @@ a new team of tester
 fixed block placements
 added lights
 Graphics options
+PRE-ALPHA
+#==============0.1==============#
+knives
+enemies
+health
